@@ -1,4 +1,5 @@
-package GameJava;
+import GameJava.Model;
+import GameJava.View;
 
 import java.util.Scanner;
 

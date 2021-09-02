@@ -1,5 +1,3 @@
-package GameJava;
-
 public class View {
     public final static String START_WORD = " Введи 1 для стандартной игры, 2 - игра со своими пределами";
     public final static String NRM_NMBRS_PLS = "Вводи только нормальные числа";

@@ -1,5 +1,3 @@
-package GameJava;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -13,10 +11,10 @@ public class Model {
     public int[] count = {1, 0};
     String[] tries = new String[2];
 
-    private int min = 0;
-    private int max = 100;
-    private boolean typeGame;
-    private int unknown;
+    public int min = 0;
+    public int max = 100;
+    public boolean typeGame;
+    public int unknown;
 
     public void setTypeGame(boolean typeGame){
         this.typeGame = typeGame;

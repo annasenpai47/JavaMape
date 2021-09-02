@@ -1,5 +1,6 @@
-package GameJava;
-
+import GameJava.Controller;
+import GameJava.Model;
+import GameJava.View;
 
 public class Main {
 
