@@ -8,9 +8,9 @@ public class Controller {
     View view;
 
 
-    public Controller(Model model, View view){
-        this.view = view;
-        this.model = model;
+    public Controller(Model a, View b){
+        view = b;
+        model = a;
     }
 
     public void startGame(){
